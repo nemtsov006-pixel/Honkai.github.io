@@ -1,0 +1,12 @@
+[file name]: robots.txt
+[file content begin]
+User-agent: *
+Allow: /
+Disallow: /admin.html
+Disallow: /*.php
+Disallow: /*.js?*
+Disallow: /*?*sort=
+Disallow: /*?*filter=
+
+Sitemap: https://nemtsov006-pixel.github.io/Honkai.github.io/sitemap.xml
+[file content end]
